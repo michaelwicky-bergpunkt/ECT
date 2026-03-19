@@ -1,0 +1,5 @@
+{
+  "name": "bergpunkt - ECT Visualizer",
+  "description": "Ein Tool zur grafischen Erfassung von Extended Column Test (ECT) Resultaten mit Daumen-Visualisierung.",
+  "requestFramePermissions": []
+}
